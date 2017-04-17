@@ -56,5 +56,4 @@ public class MainAct extends AppCompatActivity {
             Log.e("WZK", "点击的按钮是：" + btns.getText());
         }
     };
-
 }
